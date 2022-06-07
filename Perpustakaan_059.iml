@@ -26,5 +26,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" exported="" name="net.sf.jasperreports" level="project" />
   </component>
 </module>
